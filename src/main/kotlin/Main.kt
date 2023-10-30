@@ -12,7 +12,7 @@ fun main() {
     {
         Alan-=20
         counter+=55
-    }
+    }vbsdcfbsdffhbsfdhgs
     println(counter)
 
 getName()
